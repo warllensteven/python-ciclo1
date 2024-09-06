@@ -1,1 +1,1 @@
-prin("hola mundo")
+prin("hola mundo hola")
