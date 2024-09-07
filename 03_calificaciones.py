@@ -16,4 +16,4 @@ nota3 = n3 * 0.35
 nota4 = n4 * 0.20
 definitiva = nota1 + nota2 + nota3 + nota4
 
-print(f"{nom}, tu nota definitiva es: {definitiva}")
+print(f"{nom}, tu nota definitiva es: {definitiva:.1f}")
