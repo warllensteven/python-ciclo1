@@ -15,3 +15,14 @@ print(lista)
 #remove
 lista.remove("Sergio")
 print(lista)
+#del
+del(lista[3])
+print(lista)
+#limpiar listas
+lista.clear()
+print(lista)
+print(type(lista))
+
+#del lista
+#print(type(lista))
+#print(lista)
