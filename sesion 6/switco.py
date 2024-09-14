@@ -1,9 +1,9 @@
 def prodMAyIngSem(mat, lst):
     lsting = []
-    for f in range(len(mat)):
+    for c in range(len(mat[c])):
         suma = 0
-        for c in range(len(mat[f])):
-            suma += mat[f][c] * lst[f]
+        for f in range(len(mat)):
+            suma += mat[c][f] * lst[f]
         lsting.append(suma)
 
     mayor = max(lsting)       
