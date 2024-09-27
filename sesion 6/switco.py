@@ -21,4 +21,4 @@ ventas = [[100, 88, 92, 94, 85, 110, 100],
 
 prod, ingrprod = prodMAyIngSem(ventas,lstPrecios)
 print("El proceso que genera mas ingresos en la semana es:"
-      , prod, f" - Vendio: ${ingrprod:,}") 
+    , prod, f" - Vendio: ${ingrprod:,}") 
